@@ -2,23 +2,24 @@
 <h2>☢️ Cybersecurity Projects:</h2>
 
 
-  - [Python Remote KeyLogger ](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [EDR HOME LAB: ATTACK & DEFENSE  ](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [WIRELESS NETWORK ATTACK  ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [PYTHON REMOTE KEYLOGGER ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
+  - [EDR HOME LAB: ATTACK & DEFENSE  ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
+  - [WIRELESS NETWORK ATTACK  ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
+  - [SCAN & FIX VULNERABILITIES  ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
     
 
 <h2>📄 Certifications </h2>
 
- - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
- - [TryHackMe SOC Level 1](https://github.com/joshmadakor1/Algorithms-Practice)
- - [ComptIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Google Cybersecurity Professional](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
+ - [TryHackMe SOC Level 1](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
+ - [ComptIA Security+](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
   
   
 <h2>🛜 Connect with me:</h2>
 
+- [Linkedin]( https://www.linkedin.com/in/serigne-diouf-4baa59229/
+)
 
-[<img align="left" alt="SerigneDiouf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/serigne-diouf-4baa59229/
 
