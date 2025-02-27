@@ -1,12 +1,17 @@
 <h1>Hi, I'm Serigne! <br/>  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python Remote KeyLogger</b>
-  - [Active Directory ](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Python Remote KeyLogger ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [EDR HOME LAB: ATTACK & DEFENSE  ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [WIRELESS NETWORK ATTACK  ](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 
 <h2>📄 Certifications </h2>
 
- - [Active Directory ](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [TryHackMe SOC Level 1](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [ComptIA Security+](https://github.com/joshmadakor1/Algorithms-Practice)
   
   
 <h2> 🤳 Connect with me:</h2>
