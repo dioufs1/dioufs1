@@ -3,7 +3,7 @@
 
 
   - [PYTHON REMOTE KEYLOGGER ](https://github.com/dioufs1/Remote-Python-Keylogger)
-  - [EDR HOME LAB: ATTACK & DEFENSE  ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
+  - [EDR HOME LAB: ATTACK & DEFENSE  ](https://github.com/dioufs1/EDR-HOME-LAB-ATTACK-DEFENSE-)
   - [WIRELESS NETWORK ATTACK  ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
   - [SCAN & FIX VULNERABILITIES  ](https://www.linkedin.com/in/serigne-diouf-4baa59229/)
     
