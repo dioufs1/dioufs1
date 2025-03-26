@@ -2,7 +2,7 @@
   <h1 align="center">👋 Hey there, I'm Serigne Diouf!</h1>
   <h3 align="center">🔒 Cybersecurity Enthusiast | SOC Analyst</h3>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Protecting+the+digital+world;Turning+vulnerabilities+into+strengths;Cybersecurity+is+a+mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Protecting+the+digital+world;Turning+vulnerabilities+into+dust;Cybersecurity+is+a+mindset" alt="Typing SVG" />
 
 </div>
 
