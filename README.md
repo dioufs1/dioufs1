@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 My Cyber Arsenal
+### 🚀 My Projects
 
 <table align="center">
   <tr>
